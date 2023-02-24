@@ -1,0 +1,10 @@
+.add_expenses{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.expense{
+    border: 1px solid green;
+    border-radius: 15px;
+}
